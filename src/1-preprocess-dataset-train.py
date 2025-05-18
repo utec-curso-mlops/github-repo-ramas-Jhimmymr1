@@ -4,6 +4,8 @@ import sklearn.metrics as metrics
 import os
 import os
 
+#Este comentario simula la correccion de un bug enctontrado en el preprocesamiento
+#Se encontro un error en el proceso de limpieza de variables de alta correlacion entre si
 
 class preprocess_data:
     _output_path = ""
