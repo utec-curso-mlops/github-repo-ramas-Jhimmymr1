@@ -6,6 +6,7 @@ import os
 
 #Esta linea va a simular que estamos trabajando en optimizar el codigo de proces
 #2da linea de apoyo y documentacion
+#terminamos de hacer los cambios
 
 class preprocess_data:
     _output_path = ""
